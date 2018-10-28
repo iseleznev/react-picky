@@ -1,5 +1,5 @@
 {
-  "name": "react-picky",
+  "name": "iseleznev-react-picky",
   "version": "2.0.1",
   "main": "dist/index.js",
   "typings": "./index.d.ts",
